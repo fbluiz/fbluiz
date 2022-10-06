@@ -1,6 +1,6 @@
 Olá, Eu sou Fábio 👋
 
-Here are some ideas to get you started:
+
 
 - ⚡ Desenvolvedor C# .NET  
 - 😄 Estudante de Analise e Desenvolvimento de Sistemas.
